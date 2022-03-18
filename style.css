@@ -67,7 +67,6 @@ body{
 }
 section.break{
     padding-top: 3.7em;
-    border: 1px solid black;
 }
 .main-focus{
     font-size: 3.2rem;
@@ -418,9 +417,6 @@ section.break{
 /*Responsive Breakpoint */
 @media (min-width:320px) and (max-width:425px){ /*Mobile S, Mobile L, Mobile M*/
     /*Usable Class*/
-    section.break{
-        padding-top: 1em;
-    }
     .main-focus{
         font-size: 2.5rem;
     }
@@ -433,7 +429,7 @@ section.break{
     .text{
         font-size: 0.75rem;
     }
-    .break{
+    section.break{
         padding-top: 1em;
     }
 
@@ -459,14 +455,14 @@ section.break{
     nav ul.slide{
         transform: translateX(0);
     }
-    nav#navbar > ul.nav-link > a.fill-btn{
+    #navbar .nav-bar ul  a.fill-btn{
         padding: 0;
         margin-bottom: 0.5em;
-        background-color: unset;
+        background-color: #fff;
         border: none;
         color: var(--second);
     }
-    nav#navbar > ul.nav-link > a.fill-btn:hover{
+    #navbar .nav-bar ul a.fill-btn:hover{
         animation: none;
     }
 
@@ -537,11 +533,6 @@ section.break{
     }
 }
 @media (min-width:425px) and (max-width:768px){ /*Tablet*/
-    /*Usable Class*/
-    section.break{
-        padding-top: 2.7em;
-    }
-
     /*Navigation bar styling*/
     .nav-link{
         width: 100%;
@@ -563,14 +554,14 @@ section.break{
     nav ul.slide{
         transform: translateX(0);
     }
-    nav#navbar > ul.nav-link > a.fill-btn{
+    #navbar .nav-bar ul  a.fill-btn{
         padding: 0;
         margin-bottom: 0.5em;
         background-color: #fff;
         border: none;
         color: var(--second);
     }
-    nav#navbar > ul.nav-link > a.fill-btn:hover{
+    #navbar .nav-bar ul a.fill-btn:hover{
         animation: none;
     }
 
@@ -654,7 +645,7 @@ section.break{
 @media (min-width:2000px){/*4k Device*/
     /*Usable Class*/
     section.break{
-        padding-top: 5.7em;
+        padding-top: 6em;
     }
     .main-focus{
         font-size: 6rem;
