@@ -1,5 +1,6 @@
 # Andy Portfolio
 This is a project for freecodecamp certificate. Designed and developed by me.
+Check it out on <a href="https://codepen.io/souji-andy/full/wvpagZP">Codepen</a>.
 
 <h2>Technologies used in this project</h2>
 <ul>
