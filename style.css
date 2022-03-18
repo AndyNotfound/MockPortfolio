@@ -455,14 +455,14 @@ section.break{
     nav ul.slide{
         transform: translateX(0);
     }
-    #navbar .nav-bar ul  a.fill-btn{
+    nav#navbar ul  a.fill-btn{
         padding: 0;
         margin-bottom: 0.5em;
         background-color: #fff;
         border: none;
         color: var(--second);
     }
-    #navbar .nav-bar ul a.fill-btn:hover{
+    nav#navbar ul  a.fill-btn:hover{
         animation: none;
     }
 
@@ -554,14 +554,14 @@ section.break{
     nav ul.slide{
         transform: translateX(0);
     }
-    #navbar .nav-bar ul  a.fill-btn{
+    nav#navbar ul  a.fill-btn{
         padding: 0;
         margin-bottom: 0.5em;
         background-color: #fff;
         border: none;
         color: var(--second);
     }
-    #navbar .nav-bar ul a.fill-btn:hover{
+    nav#navbar ul  a.fill-btn:hover{
         animation: none;
     }
 
