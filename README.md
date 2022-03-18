@@ -1,7 +1,7 @@
 # Andy Portfolio
 This is a project for freecodecamp certificate. Designed and developed by me.
 
-<h2>Technologies used in this project :</h2>
+<h2>Technologies used in this project</h2>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
