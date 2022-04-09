@@ -13,6 +13,8 @@ Check it out on <a href="https://codepen.io/souji-andy/full/wvpagZP">Codepen</a>
 
 <section>
   <h2>User Interface Design</h2>
-  <p>Desktop UI Design :<a href="https://github.com/AndyNotfound/AndyPortfolio/tree/main/Desktop%20UI%20Design"> click here</a></p>
-  <p>Mobile UI Design :<a href="https://github.com/AndyNotfound/AndyPortfolio/tree/main/Mobile%20UI%20Design"> click here</a></p>
+  <ul>
+    <li><p>Desktop UI Design :<a href="https://github.com/AndyNotfound/AndyPortfolio/tree/main/Desktop%20UI%20Design"> click here</a></p></li>
+    <li><p>Mobile UI Design :<a href="https://github.com/AndyNotfound/AndyPortfolio/tree/main/Mobile%20UI%20Design"> click here</a></p></li>
+  </ul>
 </section>
