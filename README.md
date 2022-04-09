@@ -12,15 +12,14 @@ Check it out on <a href="https://codepen.io/souji-andy/full/wvpagZP">Codepen</a>
  </ul>
 
 <section>
-  <h2>Desktop User Interface Design</h2>
-  <img src="https://user-images.githubusercontent.com/40969170/159052562-7e25bc21-f079-47ba-bb5f-9a71726e2cc0.png">
-  <img src="https://user-images.githubusercontent.com/40969170/159052568-21bcf2cb-753d-44e1-9dcd-4cf5be5d27a1.png">
-  <img src="https://user-images.githubusercontent.com/40969170/159052584-1d0db0d3-06ee-4011-958d-57081b4093de.png">
-</section>
-
-<section>
-  <h2>Mobile User Interface Design</h2>
-  <img src="https://user-images.githubusercontent.com/40969170/159052239-21f3b1d0-cbcd-41ba-8481-a4c599f77d52.png">
-  <img src="https://user-images.githubusercontent.com/40969170/159052256-8aab8260-bf4b-461a-97fd-bc08af482243.png">
-  <img src="https://user-images.githubusercontent.com/40969170/159052268-01dd4152-ce0b-40d0-930d-270d426e8e79.png">
+  <h2>User Interface Design</h2>
+  <ul>
+    <li>Hero Section</li>
+    <li>About</li>
+    <li>Technology</li>
+    <li>project</li>
+    <li>footer</li>
+  </ul>
+  <p>Desktop UI Design :</p><a href="https://github.com/AndyNotfound/AndyPortfolio/tree/main/Desktop%20UI%20Design">View</a>
+  <p>Mobile UI Design :</p><a href="https://github.com/AndyNotfound/AndyPortfolio/tree/main/Mobile%20UI%20Design">View</a>
 </section>
