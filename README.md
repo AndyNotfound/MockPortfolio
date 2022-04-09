@@ -20,6 +20,6 @@ Check it out on <a href="https://codepen.io/souji-andy/full/wvpagZP">Codepen</a>
     <li>project</li>
     <li>footer</li>
   </ul>
-  <p>Desktop UI Design :</p><a href="https://github.com/AndyNotfound/AndyPortfolio/tree/main/Desktop%20UI%20Design">View</a>
-  <p>Mobile UI Design :</p><a href="https://github.com/AndyNotfound/AndyPortfolio/tree/main/Mobile%20UI%20Design">View</a>
+  <p>Desktop UI Design :<a href="https://github.com/AndyNotfound/AndyPortfolio/tree/main/Desktop%20UI%20Design">View</a></p>
+  <p>Mobile UI Design :<a href="https://github.com/AndyNotfound/AndyPortfolio/tree/main/Mobile%20UI%20Design">View</a></p>
 </section>
