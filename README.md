@@ -7,8 +7,8 @@ Check it out on <a href="https://codepen.io/souji-andy/full/wvpagZP">Codepen</a>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>Scrolls.js - smooth scrolling library <a href="https://scrollsjs.com/">check it here</a></li>
-  <li>Font awesome - icon library <a href="https://fontawesome.com/">check it here</a></li>
+  <li>Scrolls.js - smooth scrolling library <a href="https://scrollsjs.com/">click here</a></li>
+  <li>Font awesome - icon library <a href="https://fontawesome.com/">click here</a></li>
  </ul>
 
 <section>
