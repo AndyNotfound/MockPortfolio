@@ -14,5 +14,17 @@ Check it out on<a href="https://codepen.io/souji-andy/full/wvpagZP"> Codepen</a>
 ## Libraries
 <ul>
   <li><a href="https://scrollsjs.com/">Scrolls.js </a>- A smooth scrolling library built to provide convenience for developers.</li>
+ </ul>
+
+## Tools
+<ul>
+  <li><a href="https://code.visualstudio.com/">Visual Studio Code</a> - Code editing. Redefined.</li>
+  <li><a href="https://www.figma.com/">Figma</a> - Figma connects everyone in the design process so teams can deliver better products, faster.</li>
+ </ul>
+ 
+ ## Medias
+<ul>
+  <li><a href="https://www.unsplash.com/">Unsplash</a> - The internet’s source of freely-usable images.</li>
+  <li><a href="https://undraw.co/illustrations">Undraw</a> - Browse to find the images that fit your needs and click to download.</li>
   <li><a href="https://fontawesome.com/">Font Awesome</a> - Font Awesome is the internet's icon library and toolkit used by millions of designers, developers.</li>
  </ul>
