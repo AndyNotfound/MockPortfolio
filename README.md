@@ -4,6 +4,10 @@ Check it out on<a href="https://codepen.io/souji-andy/full/wvpagZP"> Codepen</a>
 
 ![screencapture-andynotfound-github-io-AndyPortfolio-2022-05-03-21_29_50](https://user-images.githubusercontent.com/40969170/166473344-c9e479e2-7fa5-4982-8a8f-c8dd0d4682de.png)
 
+## Test Result by Lighthouse
+![Untitled Document 2-1](https://user-images.githubusercontent.com/40969170/169653728-b16cdd0d-e5a3-47ef-b840-add9bf7e0bee.jpg)
+
+
  ## Technologies 
 <ul>
   <li>HTML - HTML is the standard markup language for Web pages.</li>
